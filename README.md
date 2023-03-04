@@ -6,7 +6,7 @@ Sou um desenvolvedor Full Stack que ama construir aplicações web escaláveis e
 
 Tenho experiência em:
 
-- Desenvolvimento de aplicações web utilizando TypeScript/JavaScript
+- Desenvolvimento de aplicações web utilizando Typescript/Javascript
 - Utilização de frameworks como [ReactJS](https://reactjs.org/) e [VueJS](https://vuejs.org/)
 - Bibliotecas de componentes, como [MUI](https://mui.com/) e [Chakra UI](https://chakra-ui.com/) no React, ou [Quasar](https://quasar.dev/) e [Vuetify](https://vuetifyjs.com/en/) no VueJS
 - Bibliotecas de estilização como [Tailwind CSS](https://tailwindcss.com/)
