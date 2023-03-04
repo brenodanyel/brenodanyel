@@ -1,6 +1,6 @@
 # Olá, eu sou Breno Danyel! 👋
 
-Sou um desenvolvedor Full Stack que ama construir aplicações web escaláveis e eficientes. Atualmente, trabalho com TypeScript, utilizando principalmente React e VueJS no front-end e NodeJS no back-end.
+Sou um desenvolvedor Web Full Stack apaixonado por tecnologia e que ama construir aplicações web escaláveis e eficientes. Atualmente trabalho no ecossistema TypeScript, utilizando principalmente React e VueJS no front-end e NodeJS no back-end. 
 
 ## 🛠️ Habilidades Técnicas
 
