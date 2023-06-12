@@ -2,20 +2,6 @@
 
 Sou um desenvolvedor Web Full Stack apaixonado por tecnologia e que ama construir aplicações web escaláveis e eficientes. Atualmente trabalho no ecossistema TypeScript, utilizando principalmente React e VueJS no front-end e NodeJS no back-end. 
 
-## 🛠️ Habilidades Técnicas
-
-Tenho experiência em:
-
-- Desenvolvimento de aplicações web utilizando Typescript/Javascript
-- Utilização de frameworks como [ReactJS](https://reactjs.org/) e [VueJS](https://vuejs.org/)
-- Bibliotecas de componentes, como [MUI](https://mui.com/) e [Chakra UI](https://chakra-ui.com/) no React, ou [Quasar](https://quasar.dev/) e [Vuetify](https://vuetifyjs.com/en/) no VueJS
-- Bibliotecas de estilização como [Tailwind CSS](https://tailwindcss.com/)
-- Criação de interfaces responsivas no geral
-- Construção de APIs REST
-- Uso de frameworks como [Express](https://expressjs.com/), [AdonisJS](https://adonisjs.com/) e [NestJS](https://nestjs.com/) no NodeJS 
-- Uso de SQL e ORMs como [Prisma](https://www.prisma.io/), [Sequelize](https://sequelize.org/), etc.
-- Testes com [Jest](https://jestjs.io/), [Chai](https://www.chaijs.com/), [Sinon](https://sinonjs.org/), [Cypress](https://www.cypress.io/), [Vitest](https://vitest.netlify.app/), etc.
-
 ## 📫 Contato
 
 - Email: [bdls1704@hotmail.com](mailto:bdls1704@hotmail.com)
