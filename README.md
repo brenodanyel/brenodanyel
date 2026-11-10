@@ -1,5 +1,3 @@
-# Breno Santana
-
 Full-Stack Software Engineer focused on building reliable production software.
 
 I work across backend services, APIs, frontend applications, databases, testing, CI/CD, Docker, and cloud infrastructure. My main stack includes Node.js, TypeScript, JavaScript, Vue.js, React, PostgreSQL, Redis, and Docker.
